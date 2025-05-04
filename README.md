@@ -31,19 +31,11 @@ Check out some of my favorite shots! 💫
 
 ---
 
-### <strong>2️⃣ Landscapes</strong> 🌄
+### <strong>2️⃣ Nature</strong> 🌄
 
 > From majestic mountains to serene sunsets, I bring the beauty of nature to life.
 
-<img src="https://link-to-your-image.com" alt="Landscapes" />
-
----
-
-### <strong>3️⃣ Weddings & Events</strong> 💍🎉
-
-> Every moment is precious, and I’m here to capture the magic.
-
-<img src="https://link-to-your-image.com" alt="Weddings & Events" />
+<img src="" alt="Landscapes" />
 
 ---
 
@@ -51,7 +43,7 @@ Check out some of my favorite shots! 💫
 
 > The city’s pulse, the stories that unfold on the streets.
 
-<img src="https://link-to-your-image.com" alt="Urban Photography" />
+<img src="https://cdn.corenexis.com/view/?img=d/ma4/l9Zra8.jpg" alt="Urban Photography" />
 
 ---
 
@@ -66,12 +58,6 @@ Whether you're planning a wedding or need stunning shots for your business, I of
     <li><strong>Product Photography</strong> 🛍️</li>
     <li><strong>Custom Photo Shoots</strong> 📸</li>
 </ul>
-
----
-
-## 📅 Booking & Availability
-
-Interested in working with me? Let’s create something beautiful together! 🌟 You can easily reach out and book your session through my <a href="#">Contact Page</a>.
 
 ---
 
@@ -98,26 +84,6 @@ After the shoot, I’ll edit the photos to perfection, delivering high-quality i
 ### <strong>5️⃣ Delivery</strong> 📦
 
 I’ll send you your final photos in your preferred format. ✨
-
----
-
-## 🎥 Behind the Scenes
-
-Check out a sneak peek of how I work! 🎬
-
-
-
----
-
-## 🌟 Reviews & Testimonials
-
-Here’s what some of my amazing clients have said about working with me:
-
-> *“The photos were absolutely stunning! A true professional.”* – Client Name 🧑‍🤝‍🧑
-
-> *“Thank you for capturing our big day so beautifully!”* – Wedding Couple 💍
-
-> *“I couldn’t be happier with the family portraits. Highly recommend!”* – Family Client 👨‍👩‍👧‍👦
 
 ---
 
