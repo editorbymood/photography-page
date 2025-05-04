@@ -105,7 +105,7 @@ I’ll send you your final photos in your preferred format. ✨
 
 Check out a sneak peek of how I work! 🎬
 
-<img src="https://link-to-your-bts-gif.com" alt="Behind the Scenes" />
+
 
 ---
 
