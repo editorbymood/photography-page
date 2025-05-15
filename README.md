@@ -27,7 +27,6 @@ Check out some of my favorite shots! 💫
 
 > Capturing the essence of personalities, one shot at a time.
 
-<img src="https://link-to-your-image.com" alt="Portraits" />
 
 ---
 
@@ -35,7 +34,6 @@ Check out some of my favorite shots! 💫
 
 > From majestic mountains to serene sunsets, I bring the beauty of nature to life.
 
-<img src="" alt="Landscapes" />
 
 ---
 
@@ -43,7 +41,7 @@ Check out some of my favorite shots! 💫
 
 > The city’s pulse, the stories that unfold on the streets.
 
-<img src="https://cdn.corenexis.com/view/?img=d/ma4/l9Zra8.jpg" alt="Urban Photography" />
+
 
 ---
 
