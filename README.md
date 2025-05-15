@@ -94,7 +94,7 @@ I’m always happy to discuss new projects, ideas, or collaborations! 📬 Here�
 <ul>
     <li>📧 <strong>Email</strong>: <a href="mailto:your-email@example.com">your-email@example.com</a></li>
     <li>📸 <strong>Instagram</strong>: <a href="https://instagram.com/yourhandle" target="_blank">@yourhandle</a></li>
-    <li>🌍 <strong>Website</strong>: <a href="https://www.yourwebsite.com" target="_blank">www.yourwebsite.com</a></li>
+    <li>🌍 <strong>Website</strong>: <a href="https://sanketphotography.netlify.app/" target="_blank">Photography Page</a></li>
 </ul>
 
 ---
